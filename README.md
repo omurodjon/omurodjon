@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omurodjon&label=Profile%20views&color=0e75b6&style=flat" alt="omurodjon" /> </p>
 
 <h1 align="center">Hi 👋, I'm Murodjon</h1>
-<h3 align="center">A frontend developer from Uzbekistan</h3>
+<h3 align="center">A F
+  rontend developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **English**
 
