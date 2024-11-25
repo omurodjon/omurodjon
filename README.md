@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **English**
 
-- 👨‍💻 All of my projects are available at [https://joytop.uz/](https://joytop.uz/)
+- 👨‍💻 All of my project are available at [https://joytop.uz/](https://joytop.uz/)
 
 - 📄 Know about my experiences [https://tashkent.hh.uz/resume/a78ede67ff0ccb65b10039ed1f346a655a3736](https://tashkent.hh.uz/resume/a78ede67ff0ccb65b10039ed1f346a655a3736)
 
